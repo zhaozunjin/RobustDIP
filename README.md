@@ -1,2 +1,2 @@
 # RobustDIP
-The official implementation of RoubustDIP.
+The official implementation of RobustDIP.
